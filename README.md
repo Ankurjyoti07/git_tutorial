@@ -1,2 +1,2 @@
 # git_tutorial
-basic github tutorial
+This repo contains different github tutorials
